@@ -1,7 +1,5 @@
 # CrewAI — Multi-Agent Crews
 
-A concise, placement-ready portfolio project showcasing two focused Python "crews" (agent teams) for research and content workflows.
-
 ## Overview
 
 - **Purpose:** Demonstrate modular multi-agent tooling for market research and content generation, suitable for interviews and technical portfolios.
