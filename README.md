@@ -66,11 +66,5 @@ Inside each crew package:
 
 - Open an issue or submit a pull request. Keep changes focused and add tests or example runs when applicable.
 
-## License
 
-Specify your preferred license here (e.g., MIT). If none chosen, add a `LICENSE` file.
-
-## Contact
-
-Project owner: add your name and email or a link to your portfolio/GitHub profile.
 
